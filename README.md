@@ -44,6 +44,8 @@ Daily electricity consumption (kWh) across two years.
 Demonstrates time series visualization.
 
 Highlights data preprocessing and feature engineering with pandas.
+![Electricity Usage](https://github.com/user-attachments/assets/947095eb-7c28-4e45-941c-d677c7af06f2)
+
 
 💰 Electricity Price Over Time
 
@@ -53,6 +55,8 @@ Trend of electricity prices ($/kWh).
 Shows cost inflation over time.
 
 Illustrates integration of multiple datasets into a single pipeline.
+![Electricity Price](https://github.com/user-attachments/assets/0bf5dbac-867f-4afe-bec0-7ed835afb7ea)
+
 
 📉 Daily Cost (Usage × Price)
 
@@ -62,6 +66,8 @@ Daily household/business cost of electricity usage.
 Combines consumption and pricing to create business-ready insights.
 
 Demonstrates ability to transform raw data into decision-making metrics.
+![Daily Cost](https://github.com/user-attachments/assets/4981c1b2-fb0c-41c6-a120-b31f09388d2e)
+
 
 🔮 AI Forecasts (Next 90 Days)
 
@@ -71,6 +77,8 @@ Forecasted usage, prices, and daily costs using scikit-learn regression models.
 Proves skills in machine learning for time series forecasting.
 
 Shows how predictive analytics can reduce business risk.
+![AI Forecasts](https://github.com/user-attachments/assets/366e3ca5-391a-4992-b284-85a9b59c6b48)
+
 
 📅 Seasonality Analysis (Grouped Bar Chart)
 
@@ -80,6 +88,8 @@ Average monthly usage vs. cost, visualized in grouped bars.
 Reveals seasonal consumption patterns (e.g., summer peaks).
 
 Highlights business implications like budgeting for seasonal costs.
+![Seasonality Analysis Streamlit](https://github.com/user-attachments/assets/e44edc79-8c26-45bf-bddc-f5d1d8e6caae)
+
 
 🎛 Interactive Altair Chart (Usage vs. Cost by Month)
 
@@ -89,6 +99,8 @@ Interactive chart with tooltips. Hover over bars to see exact values.
 Demonstrates advanced data visualization using Altair.
 
 Recruiter takeaway: shows ability to make insights user-friendly and interactive.
+![Seasonality Analysis Altair](https://github.com/user-attachments/assets/71bbc6a2-de30-451d-b812-7bbcb3e60856)
+
 
 📥 Downloadable Insights
 
