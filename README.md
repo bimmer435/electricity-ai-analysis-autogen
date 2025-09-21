@@ -1,6 +1,7 @@
 # Electricity AI Analysis
 
-Streamlit dashboard to visualize electricity usage vs. price trends with AI forecasting.
+![ScreenRecording2025-09-21at4 55 08PM-ezgif com-speed](https://github.com/user-attachments/assets/055ae31c-ebeb-4b75-a876-2af2e3705c47)
+
 
 🚀 Project Overview
 
