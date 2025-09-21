@@ -83,3 +83,9 @@ st.line_chart(forecast_df.set_index("date")["forecast_cost"])
 
 st.subheader("Data Preview")
 st.write(df.tail())
+
+from seasonality import show_seasonality
+
+# After forecasts are shown
+show_seasonality(df)
+
